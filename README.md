@@ -10,11 +10,12 @@ An interactive learning module built with React, designed to help students under
 - **Scoring and Rewards**: Based on user choices, the app handles scoring and rewards logic.
 - **Predefined Trees**: A set of predefined decision trees to explore.
   
-## Live Demo**
+## Live Demo
 
-You can view the live demo of this project [here](https://your-demo-link.com).
+You can view the live demo of this project: https://github.com/Likhithagudla/Decision-Tree-Interactive-Module .
 
 **Output Screens**
+
 ![DALL·E 2025-01-05 13 30 55 - A minimalistic home screen design for an educational module about decision trees for children in Class 6 and 7  The screen features a clean layout wit](https://github.com/user-attachments/assets/212f30b2-54e2-4cec-8847-914aefdd4f15)
 ![DALL·E 2025-01-05 13 31 43 - A visually engaging screen for an interactive decision tree module for children in Class 6 and 7  The screen features a question prominently displayed](https://github.com/user-attachments/assets/4ead2889-bf64-494c-a1a2-e00487d99940)
 ![DALL·E 2025-01-05 13 34 45 - A collapsible sidebar menu designed for an educational decision tree module for children in Class 6 and 7  The sidebar is located on the left side of ](https://github.com/user-attachments/assets/db3048d2-87a1-417e-93b1-88ccc58ad4c7)
